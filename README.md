@@ -8,5 +8,5 @@ sedangkan static byte myip[] untuk membuka server diweb.
 
 setelah di script di compile, lalu kita ke proteus dan masukkan directory file.hex nya.
 Lalu setting ip gateway di modul ENC2860 agar arduino bisa terhubung ke web server
-Lalu saat di web kita mengetikkan alamt ip server yang telah dibuat akan muncul "This service is currently unavailable" yg merupakan scipt php 
+Lalu saat di web kita mengetikkan alamat ip server yang telah dibuat akan muncul Nama,nim,tanggal lahir dan email saya yg merupakan scipt php 
 yg telah dibuat di arduino.
